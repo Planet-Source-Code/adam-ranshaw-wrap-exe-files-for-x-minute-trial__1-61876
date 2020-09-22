@@ -1,0 +1,17 @@
+PLEASE READ THE FOLLOWING BEFORE ATTEMPTING TO USE THIS PROGRAM!
+
+How to Turn a .exe into a protected .exe
+
+1) Complile Increase.exe
+2) Complile TrialMake.exe which will make Server.exe
+3) Compile Join.exe
+
+4) Put all 3 compiled programs in 1 folder
+5) Open Join.exe then Locate Server.exe and Increse.exe
+6) Click "Make TrialMaker.exe"
+7) A file called TrialMaker will be in the same folder Join.exe is in
+8) Open TrialMaker.exe
+9) Protect a .exe to try it out
+10) Vote and Leave Comments!
+
+THANK YOU!  If you need any help let me know.
